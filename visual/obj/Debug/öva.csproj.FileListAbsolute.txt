@@ -1,0 +1,7 @@
+C:\Users\gume09001\source\repos\öva\obj\Debug\öva.csproj.AssemblyReference.cache
+C:\Users\gume09001\source\repos\öva\obj\Debug\öva.csproj.CoreCompileInputs.cache
+C:\Users\gume09001\source\repos\öva\bin\Debug\öva.exe.config
+C:\Users\gume09001\source\repos\öva\bin\Debug\öva.exe
+C:\Users\gume09001\source\repos\öva\bin\Debug\öva.pdb
+C:\Users\gume09001\source\repos\öva\obj\Debug\öva.exe
+C:\Users\gume09001\source\repos\öva\obj\Debug\öva.pdb

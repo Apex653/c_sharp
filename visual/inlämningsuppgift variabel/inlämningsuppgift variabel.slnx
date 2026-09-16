@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="2.1/2.1.csproj" />
+  <Project Path="uppgift 2.3/uppgift 2.3.csproj" />
+  <Project Path="övning 2.1/övning 2.1.csproj" Id="ecaf7598-5d27-4c44-8f26-968e86597f4c" />
+  <Project Path="övning 2.2/övning 2.2.csproj" Id="a403eae7-3f6a-413f-abf8-fc07c2e56557" />
+  <Project Path="övning 2.3/övning 2.3.csproj" Id="02a84736-df75-434c-98ad-0d685eba413e" />
+  <Project Path="övning 2.4/övning 2.4.csproj" />
+</Solution>

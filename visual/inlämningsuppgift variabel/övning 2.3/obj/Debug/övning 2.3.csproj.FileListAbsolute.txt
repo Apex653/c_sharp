@@ -1,0 +1,7 @@
+C:\Users\gume09001\source\repos\visual\inlämningsuppgift variabel\övning 2.3\bin\Debug\övning 2.3.exe.config
+C:\Users\gume09001\source\repos\visual\inlämningsuppgift variabel\övning 2.3\bin\Debug\övning 2.3.exe
+C:\Users\gume09001\source\repos\visual\inlämningsuppgift variabel\övning 2.3\bin\Debug\övning 2.3.pdb
+C:\Users\gume09001\source\repos\visual\inlämningsuppgift variabel\övning 2.3\obj\Debug\övning 2.3.csproj.AssemblyReference.cache
+C:\Users\gume09001\source\repos\visual\inlämningsuppgift variabel\övning 2.3\obj\Debug\övning 2.3.csproj.CoreCompileInputs.cache
+C:\Users\gume09001\source\repos\visual\inlämningsuppgift variabel\övning 2.3\obj\Debug\övning 2.3.exe
+C:\Users\gume09001\source\repos\visual\inlämningsuppgift variabel\övning 2.3\obj\Debug\övning 2.3.pdb
